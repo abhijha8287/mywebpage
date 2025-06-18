@@ -1,0 +1,50 @@
+ABHISHEK JHA
+M-122, Mohan Garden, Uttam Nagar, New Delhi 110059 | +91 8287706259 | abhijha8287@gmail.com
+| 23f3004013@ds.study.iitm.ac.in | www.linkedin.com/in/abhishekjha15 |
+www.github.com/abhijha8287 |
+
+Profile
+Enthusiastic Data Science student at IIT Madras with a strong passion for Machine Learning
+and data- driven problem-solving. Actively developing expertise through rigorous
+coursework and hands-on projects. Eager to collaborate on impactful initiatives and
+connect with professionals to contribute to meaningful advancements in the field.
+
+Education
+B.S IN DATA SCIENCE AND APPLICATION | SEP 2027 | IIT MADRAS, CHENNAI,
+600036.
+
+Projects
+· CAREER GUIDANCE CHAT BOT USING LANGCHAIN
+· Ed-Tech Chatbot using langchain
+· Healthcare Premium Prediction (Regression)
+· Credit Risk Modelling (Classification)
+· AtliQ Bank – Data Analysis
+· Hospitality Domain data analytics
+· Unemployment Analysis with Python
+· Car Price Prediction with Machine Learning
+· Sales Prediction using Python
+
+Skills & Abilities
+· Python and Libraries-NumPy, Pandas,
+Matplotlib, Seaborn
+
+· Machine Learning Algorithm
+· Feature Engineering & Selection
+
+· Exploratory Data Analysis
+
+· Langchain
+
+· MS Excel, SQL
+· HTML, CSS
+· MySQL
+
+· Git & Git Hub
+
+Interests
+Data Visualization and Storytelling with Data.
+
+· Gen AI
+· PostgreSQL
+
+
